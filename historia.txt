@@ -1,0 +1,5 @@
+name: David
+lastname: Diaz
+age: 40
+
+el 1 de diciembre comienzo mi nueva oportunidad de desarrollar con diferentes tecnologias y por esto llevo mas de un año preparandome
