@@ -40,3 +40,17 @@ body
 	padding-left: 2rem;
 	font-weight: lighter;
 }
+
+.footer
+{
+	background-color:darkslategray;
+	padding: .6rem 0;
+	color: white;
+
+}
+
+.footer>small
+{
+	color: gray;
+	cursor: pointer;
+}
